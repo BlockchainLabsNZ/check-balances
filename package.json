@@ -1,0 +1,23 @@
+{
+  "name": "check-balances",
+  "version": "1.0.0",
+  "description": "Checks a list of addresses for their ETH balance",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockchainLabsNZ/check-balances.git"
+  },
+  "author": "Matt Lough (Blockchain Labs NZ)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockchainLabsNZ/check-balances/issues"
+  },
+  "homepage": "https://github.com/BlockchainLabsNZ/check-balances#readme",
+  "dependencies": {
+    "sleep": "^5.1.1",
+    "web3": "^1.0.0-beta.29"
+  }
+}
