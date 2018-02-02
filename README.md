@@ -3,7 +3,7 @@ Process a list of addresses and return the ETH balance of each address
 
 ## Usage
 
-Put the addresses you want whitelisted into `addresses.csv`
+Put the addresses you want balances for into `addresses.csv`
 ```
 npm install
 node main.js
